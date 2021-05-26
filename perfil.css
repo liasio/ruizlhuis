@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #ffff;
+    overflow-x: hidden;
+}
+
+.tituloo {
+    font-size: 45px;
+     text-transform: uppercase;
+     letter-spacing: 7px;
+     text-align: center;
+     border-top: 0px;
